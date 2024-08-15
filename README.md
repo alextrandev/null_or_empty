@@ -1,7 +1,5 @@
 # null_or_empty
 
-[![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml)
-
 A simple Node.js package that checks, if a given string is null or empty.
 
 ## Usage
